@@ -1,0 +1,27 @@
+
+main
+float coisa = 5
+coisa = (23+283/213*394) 
+bool troco = falso
+troco = verdade
+int inteiro
+entrada(inteiro)
+int contador = 0
+entrada(coisa)
+por contador contador < 10 +contador{
+    coisa = coisa +3
+    se coisa > 1000{
+        troco = falso
+    }
+    senao{
+        coisa = 1000
+    }
+    enquanto troco == falso{
+        coisa = coisa +1
+        se coisa >= 2000{
+            troco = verdade
+        }
+    }
+}
+saida (inteiro)
+saida(coisa)

@@ -1,0 +1,26 @@
+
+main
+int ini = 0
+int passo = 0
+int limite
+entrada(limite)
+entrada(passo)
+bool fim = falso
+float testando = 123 + 23 - (123 + 2) * 1
+float testandoDois = testando + 2
+se 22 != 10{
+    float qtdepassos = limite/passo
+    saida(qtdepassos)
+}
+enquanto fim != verdade{
+    ini = ini + passo
+    
+    saida(ini)
+    se ini >= limite{
+        fim = verdade
+    }
+    
+}
+
+float tUm = 10
+saida(tUm)

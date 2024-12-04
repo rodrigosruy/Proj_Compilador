@@ -1,0 +1,9 @@
+main
+int p = 20
+saida(p)
+entrada(p)
+saida(p)
+enquanto p > 0 {
+    p = p - 1
+    saida(p)
+}
