@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodrigosruy/Proj_Compilador/blob/main/README-EN.md)    
 # Projeto Compiladores (6o Semestre)
 
 ## O repositório inclui o código fonte e arquivos teste, com códigos feitos
